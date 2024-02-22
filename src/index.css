@@ -1,0 +1,15 @@
+
+
+:root {
+  background-color: #171717;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
